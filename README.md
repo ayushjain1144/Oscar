@@ -1,4 +1,9 @@
 # Oscar: Object-Semantics Aligned Pre-training for Vision-and-Language Tasks    <img src="docs/oscar_logo.png" width="200" align="right"> 
+
+## Custom Additions
+
+Pointnet++ Pretrained Model: https://api.wandb.ai/files/loicland/benchmark-torch-points-3d-s3dis/1e1p0csk/pointnet2_largemsg.pt
+
 ## Updates
 05/28/2020: Released finetuned models on downstream tasks, please check [MODEL_ZOO.md](MODEL_ZOO.md).
 05/15/2020: Released pretrained models, datasets, and code for downstream tasks finetuning.
